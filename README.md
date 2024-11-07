@@ -9,6 +9,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pelovski&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pelovski&theme=blueberry&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pelovski&theme=blueberry)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pelovski&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
