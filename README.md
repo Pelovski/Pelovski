@@ -1,5 +1,8 @@
 ### Hi, I am Pavel Pelovski! 👋
 
+I am an IT Support Specialist with a strong interest in Web and .NET development.
+I recently completed a Software Engineering program, where I gained practical experience with modern web technologies. I am always looking to expand my skills and tackle new challenges.
+I am now seeking my first opportunity as a Junior Web Developer / .NET Developer, where I can continue growing and contribute to exciting projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-pelovski-0574b6174/) 
